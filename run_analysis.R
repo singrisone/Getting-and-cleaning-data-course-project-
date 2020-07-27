@@ -1,3 +1,4 @@
+library(dplyr)
 #file download
 filename <- "UCI HAR Dataset.zip"
 
