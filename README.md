@@ -1,8 +1,3 @@
----
-title: "README"
-output: pdf_document
----
-
 ## Getting and Cleaning Data Course Project
 
 Repo for Getting and Cleaning Data project: It contains R script, codebook, and tidy data set of the project.
