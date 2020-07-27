@@ -25,7 +25,9 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ## Variables:  
 features.txt: variable names for X_train and X_test
+
 activity_labels.txt: variable names/labels for y_train and y_test
+
 tidydataset.txt: kept the variable names without altering. includes only variables with mean and standard deviation for each measurement.         
 
 
