@@ -1,8 +1,3 @@
----
-title: "CodeBook.md"
-output: pdf_document
----
-
 ## Code book for Getting and Cleaning Data Course Project
 
 ## Data for the project:
